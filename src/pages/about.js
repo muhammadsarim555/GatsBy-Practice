@@ -2,11 +2,10 @@ import React from 'react'
 
 import Layout from "../components/Layout"
 
-
-export default function NotFound() {
+export default function index() {
     return (
         <Layout>
-            <h1>NotFound</h1>
+            <h1>About</h1>
         </Layout>
     )
 }
