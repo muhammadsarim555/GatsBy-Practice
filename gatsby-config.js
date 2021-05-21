@@ -27,5 +27,6 @@ module.exports = {
     title: "Muhammad Sarim",
     description: "Web Dev Portfolio",
     copyright: "This website is copyright 2021 Muhammad Sarim",
+    contact: "muhammadsarim555@gmail.com"
   },
 }
